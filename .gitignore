@@ -1,6 +1,6 @@
-
-# Created by https://www.gitignore.io/api/flask,visualstudiocode
-# Edit at https://www.gitignore.io/?templates=flask,visualstudiocode
+# This is how you ignore a hidden file like .vscode 
+### VisualStudioCode ###
+.vscode
 
 ### Flask ###
 instance/*
@@ -132,13 +132,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-### VisualStudioCode ###
-.vscode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
