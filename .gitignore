@@ -2,6 +2,8 @@
 ### VisualStudioCode ###
 .vscode
 
+devices.db
+
 ### Flask ###
 instance/*
 !instance/.gitignore
